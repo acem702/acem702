@@ -6,7 +6,7 @@
 
 **Building practical software for real businesses**
 
-I work across web applications, backend systems, databases, and deployment — with a particular interest in tools that make everyday business operations easier.
+I work across web applications, backend systems, databases, and deployment with a particular interest in tools that make everyday business operations easier.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-myid.name.ng-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myid.name.ng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleiman-akaaba-a18246224/)
